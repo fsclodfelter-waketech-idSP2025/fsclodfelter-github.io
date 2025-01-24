@@ -15,7 +15,7 @@ I’m Sam a Marine Corps veteran, and I have a degree in Simulation and Game Des
 
 
 ## Websites I Recommend
-- [Thingiverse]https://www.thingiverse.com/) - A platform for people to post their 3d models for people to download and 3d print.
+- [Thingiverse](https://www.thingiverse.com/) - A platform for people to post their 3d models for people to download and 3d print.
 - [Blender](https://www.blender.org/) - An incredabley versitile and free 3d modeling software.
 - [Linkedin Learning](https://www.linkedin.com/learning/search?keywords=blender&promptType=LEARNER_TYPED) - A website for learning somthing your interested in ive linked blender courses.
 
