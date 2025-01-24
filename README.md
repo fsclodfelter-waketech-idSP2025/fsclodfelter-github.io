@@ -10,7 +10,7 @@ This repository will hold assignments
 ## About Me
 I’m Sam a Marine Corps veteran, and I have a degree in Simulation and Game Design. With the massive layoffs and lack of new jobs in video games, I’ve decided to return to school to get a degree in Cybersecurity.
 ## My Interests
-. I enjoy 3d modeling/ digital sclupting and 3d printing my own models and ones from the internet.
+ I enjoy 3d modeling/ digital sculpting and 3d printing my own models and ones from the internet. I sell some of my own models online as well as making models for other companies that sell models.
 
 
 
